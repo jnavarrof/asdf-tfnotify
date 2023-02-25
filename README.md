@@ -1,6 +1,6 @@
 <div align="center">
 
-# asdf-tfnotify [![Build](https://github.com/mercari/asdf-tfnotify/actions/workflows/build.yml/badge.svg)](https://github.com/mercari/asdf-tfnotify/actions/workflows/build.yml) [![Lint](https://github.com/mercari/asdf-tfnotify/actions/workflows/lint.yml/badge.svg)](https://github.com/mercari/asdf-tfnotify/actions/workflows/lint.yml)
+# asdf-tfnotify [![Build](https://github.com/jnavarrof/asdf-tfnotify/actions/workflows/build.yml/badge.svg)](https://github.com/jnavarrof/asdf-tfnotify/actions/workflows/build.yml) [![Lint](https://github.com/jnavarrof/asdf-tfnotify/actions/workflows/lint.yml/badge.svg)](https://github.com/jnavarrof/asdf-tfnotify/actions/workflows/lint.yml)
 
 
 [tfnotify](https://github.com/mercari/tfnotify) plugin for the [asdf version manager](https://asdf-vm.com).
