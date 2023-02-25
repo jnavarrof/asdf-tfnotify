@@ -16,10 +16,7 @@
 
 # Dependencies
 
-**TODO: adapt this section**
-
-- `bash`, `curl`, `tar`: generic POSIX utilities.
-- `SOME_ENV_VAR`: set this environment variable in your shell config to load the correct version of tool x.
+- `bash`, `curl`, `tar`, `unzip`: generic POSIX utilities.
 
 # Install
 
@@ -28,7 +25,7 @@ Plugin:
 ```shell
 asdf plugin add tfnotify
 # or
-asdf plugin add tfnotify https://github.com/mercari/asdf-tfnotify.git
+asdf plugin add tfnotify https://github.com/jnavarrof/asdf-tfnotify.git
 ```
 
 tfnotify:
@@ -47,8 +44,7 @@ asdf global tfnotify latest
 tfnotify --help
 ```
 
-Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to
-install & manage versions.
+Check [asdf](https://github.com/asdf-vm/asdf) readme for more instructions on how to install & manage versions.
 
 # Contributing
 
@@ -58,4 +54,4 @@ Contributions of any kind welcome! See the [contributing guide](contributing.md)
 
 # License
 
-See [LICENSE](LICENSE) © [Mercari Inc](https://github.com/mercari/)
+See [LICENSE](LICENSE) © [Mercari Inc.](https://github.com/mercari/)
